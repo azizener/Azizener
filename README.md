@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Ai
 - 👯 I’m looking to collaborate on Ai field
 - 💬 Ask me about Fullstack Js
-- 📫 How to reach me: @Azizener_ twitter
+- 📫 reach me: @Azizener_ twitter
 
